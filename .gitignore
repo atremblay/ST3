@@ -1,0 +1,8 @@
+
+# There is really no harm in syncing these, however some of them change on an hourly basis, which may result in having to run more Git commands
+Package Control.last-run
+Package Control.ca-list
+Package Control.ca-bundle
+Package Control.system-ca-bundle
+Package Control.cache/
+Package Control.ca-certs/
