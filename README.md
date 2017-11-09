@@ -5,5 +5,5 @@ On MacOS
 ```
 cd $HOME/Library/Application\ Support/Sublime\ Text\ 3/Packages/
 mv User User_old
-git clone git@github.com:atremblay/ST3.git User
+git clone https://github.com/atremblay/ST3.git User
 ```
